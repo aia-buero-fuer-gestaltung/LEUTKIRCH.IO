@@ -6,13 +6,14 @@ lib-cov
 *.out
 *.pid
 *.gz
-*.swp
+*.sw
+.wiki
+.esproj
 
 pids
 logs
 results
 tmp
-config
 
 npm-debug.log
 node_modules
@@ -20,3 +21,15 @@ node_modules
 *.iml
 .DS_Store
 Thumbs.db
+
+*.espressostorage
+
+*.wiki
+
+ABT_HACKATHON Alias
+
+config/secrets.js
+
+config/secrets 2.js
+
+config/secrets.js

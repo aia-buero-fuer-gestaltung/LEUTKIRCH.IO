@@ -1,7 +1,12 @@
-![Alt](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/1397805_657082784322340_282515905_o.jpg)
-Clone of Hackathon Starter 2.1 [![Dependency Status](http://img.shields.io/gemnasium/sahat/hackathon-starter.svg?style=flat)](https://gemnasium.com/sahat/hackathon-starter) [![Build Status](http://img.shields.io/travis/sahat/hackathon-starter.svg?style=flat)](https://travis-ci.org/sahat/hackathon-starter) [![Analytics](https://ga-beacon.appspot.com/UA-47447818-2/hackathon-starter?pixel)](https://github.com/igrigorik/ga-beacon)
-=======================
+leutkirch.herokuapp.com
+![Rathaus Leutkirch mit Flagge](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/1397805_657082784322340_282515905_o.jpg)
+(A Clone of Sahats Hackathon Starter 2.1)
+=========
 
+## Dependencies and Compilation Checkers
+DAVID-DM | GEMNASIUM | TRAVIS
+--- | --- | ---
+[![Dependency Status](https://david-dm.org/consolacao/www.tajine.de.png?theme=shields.io)](https://david-dm.org/consolacao/www.tajine.de) | [![Dependency Status](https://gemnasium.com/consolacao/www.tajine.de.svg)](https://gemnasium.com/consolacao/www.tajine.de) | [![Build Status](https://travis-ci.org/consolacao/www.tajine.de.svg?branch=master)](https://travis-ci.org/consolacao/www.tajine.de)
 
 
 License

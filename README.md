@@ -1,7 +1,8 @@
 leutkirch.herokuapp.com
-![Rathaus Leutkirch mit Flagge](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/1397805_657082784322340_282515905_o.jpg)
-(A Clone of Sahats Hackathon Starter 2.1)
 =========
+
+![Rathaus Leutkirch mit Flagge](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/1397805_657082784322340_282515905_o.jpg)
+#### (A Clone of Sahats Hackathon Starter 2.1)
 
 ## Dependencies and Compilation Checkers
 DAVID-DM | GEMNASIUM | TRAVIS

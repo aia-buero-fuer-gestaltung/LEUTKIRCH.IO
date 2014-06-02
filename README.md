@@ -7,7 +7,7 @@ leutkirch.herokuapp.com
 ## Dependencies and Compilation Checkers
 DAVID-DM | GEMNASIUM | TRAVIS
 --- | --- | ---
-[![Dependency Status](https://david-dm.org/consolacao/LEUTKIRCH.IO.png?theme=shields.io)](https://david-dm.org/consolacao/LEUTKIRCH.IO) | [![Dependency Status](https://gemnasium.com/consolacao/LEUTKIRCH.IO.svg)](https://gemnasium.com/consolacao/LEUTKIRCH.IO) | [![Build Status](https://travis-ci.org/consolacao/LEUTKIRCH.IO.svg?branch=master)](https://travis-ci.org/consolacao/LEUTKIRCH.IO)
+[![Dependency Status](https://david-dm.org/aia-buero-fuer-gestaltung/LEUTKIRCH.IO.png?theme=shields.io)](https://david-dm.org/aia-buero-fuer-gestaltung/LEUTKIRCH.IO) | [![Dependency Status](https://gemnasium.com/aia-buero-fuer-gestaltung/LEUTKIRCH.IO.svg)](https://gemnasium.com/aia-buero-fuer-gestaltung/LEUTKIRCH.IO) | [![Build Status](https://travis-ci.org/aia-buero-fuer-gestaltung/LEUTKIRCH.IO.svg?branch=master)](https://travis-ci.org/aia-buero-fuer-gestaltung/LEUTKIRCH.IO)
 
 
 License
